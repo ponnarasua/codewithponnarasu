@@ -76,8 +76,8 @@ const Profile = () => {
             Internships
           </h1>
           <p>
-            &nbsp;&nbsp;&nbsp;&nbsp;<b>Company Name :</b>Shadow Fox &nbsp;&nbsp;
-            <b>Role :</b> Java Developer
+            &nbsp;&nbsp;&nbsp;&nbsp;<b>Company Name :</b>BrewBrain &nbsp;&nbsp;
+            <b>Role :</b> MERN Developer
           </p>
         </div>
         <div class="section6">
